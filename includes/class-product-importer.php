@@ -40,7 +40,7 @@ class WooImporterProduct {
         } else {
             // Crear nuevo producto
             $wc_product = new WC_Product();
-            $this->$imported_count++; // Incrementar contador de importados
+            $this->imported_count++; // Incrementar contador de importados
             $this->woo_importer_logger->log_message("Add Product", 'Producto Importado: ' . $product->title);
         }
 
