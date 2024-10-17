@@ -45,3 +45,4 @@ Este plugin permite la autenticación de usuarios a través de una API externa (
 2. Inicia sesión utilizando las credenciales de la API FakeStore ([FakeStore Users](https://fakestoreapi.com/users)).
 3. Tras iniciar sesión, verás un botón para **Importar productos**. Haz clic para iniciar la importación.
 4. Una vez completada la importación, recibirás una notificación con el número de productos importados o actualizados.
+5. Podrás visualizar los productos guardados tanto en la sección de `Productos` de tu panel de administración de WordPress como al navegar por la tienda de tu sitio web.
